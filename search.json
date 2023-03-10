@@ -11,7 +11,7 @@
     "href": "posts/Beyonce_Sentiment.html",
     "title": "myblog",
     "section": "",
-    "text": "#first file"
+    "text": "title: “beyonce sentiment”\ndescription: “testing” author: “Michelle Ju Young Rhee” date: “03/09/2023” date-modified: “03/09/2023”"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -32,6 +32,6 @@
     "href": "index.html",
     "title": "myblog",
     "section": "",
-    "text": "first file\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 9, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "title: “beyonce sentiment”\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 9, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]
