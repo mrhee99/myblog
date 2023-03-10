@@ -11,7 +11,7 @@
     "href": "posts/Beyonce_Sentiment.html",
     "title": "myblog",
     "section": "",
-    "text": "title: “beyonce sentiment”\ndescription: “testing” author: “Michelle Ju Young Rhee” date: “03/09/2023” date-modified: “03/09/2023”\n\nx=0\ny=2\nprint(x+y)\n\n2"
+    "text": "Evolution of Beyonce’s Album\nFor my final project, I will be exploring the evolution of Beyonce’s albums by analyzing the trend of sentiment scores. The data used in this project includes the names of albums, titles of song, song lyrics and release year of album. My motivation for selecting this dataset is two-fold: a) Beyonce is one of the most legendary artists of the century with her career spanning over 20 years. Therefore, I believe that she would be an interesting topic of a project. b) Throughout the DH 140 course, I particularly enjoyed text analysis and data visualization. Thus, I want to use these two techniques primarily. With these reasons in mind, my research question is this:\nHow have the moods of Beyonce’s albums transformed over the span of her career and what is the correlation between moods and sales of her album?"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -32,6 +32,6 @@
     "href": "index.html",
     "title": "myblog",
     "section": "",
-    "text": "title: “beyonce sentiment”\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 9, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Evolution of Beyonce’s Album\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 9, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]
